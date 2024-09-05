@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: We are testing out new features and want an easy way to test features while still being able to rollback the changes if it goes wrong.
